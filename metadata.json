@@ -1,0 +1,7 @@
+{
+  "name": "NexusERP",
+  "description": "Nowoczesny system ERP dla małych i średnich firm z modułami zamówień, magazynu, floty, HR i finansów.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
